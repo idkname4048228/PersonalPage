@@ -48,7 +48,6 @@ nav a {
     margin: auto; /* 確保 .main-content 在父元素中居中 */
     flex-basis: 10vw;
     flex: 1;
-    overflow: hidden;
 }
 
 .main-content > div {
